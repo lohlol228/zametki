@@ -1,2 +1,2 @@
 # zametki
-readme in app
+create "notes" folder on your computer
